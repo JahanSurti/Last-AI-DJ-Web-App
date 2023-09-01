@@ -1,0 +1,28 @@
+.notice
+{
+    font-size: 15px;
+}
+.heading
+{
+    font-size: 30px;
+    color: blue;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+#songname
+{
+    font-size: 23px;
+    margin: 15px;
+
+}
+
+body{
+    background-size: cover;
+    width: 800;
+    height: 800;
+}
